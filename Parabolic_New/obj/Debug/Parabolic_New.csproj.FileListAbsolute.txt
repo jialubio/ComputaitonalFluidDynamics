@@ -1,0 +1,30 @@
+C:\Users\Lars\Documents\Visual Studio 2017\Projects\Introduction to Scientific Computing\Parabolic_New\Parabolic_New\bin\Debug\Parabolic_New.exe.config
+C:\Users\Lars\Documents\Visual Studio 2017\Projects\Introduction to Scientific Computing\Parabolic_New\Parabolic_New\bin\Debug\Parabolic_New.exe
+C:\Users\Lars\Documents\Visual Studio 2017\Projects\Introduction to Scientific Computing\Parabolic_New\Parabolic_New\bin\Debug\Parabolic_New.pdb
+C:\Users\Lars\Documents\Visual Studio 2017\Projects\Introduction to Scientific Computing\Parabolic_New\Parabolic_New\obj\Debug\Parabolic_New.Parabolic.resources
+C:\Users\Lars\Documents\Visual Studio 2017\Projects\Introduction to Scientific Computing\Parabolic_New\Parabolic_New\obj\Debug\Parabolic_New.Properties.Resources.resources
+C:\Users\Lars\Documents\Visual Studio 2017\Projects\Introduction to Scientific Computing\Parabolic_New\Parabolic_New\obj\Debug\Parabolic_New.csproj.GenerateResource.Cache
+C:\Users\Lars\Documents\Visual Studio 2017\Projects\Introduction to Scientific Computing\Parabolic_New\Parabolic_New\obj\Debug\Parabolic_New.exe
+C:\Users\Lars\Documents\Visual Studio 2017\Projects\Introduction to Scientific Computing\Parabolic_New\Parabolic_New\obj\Debug\Parabolic_New.pdb
+C:\Users\Lars\Documents\Visual Studio 2017\Projects\Introduction to Scientific Computing\Parabolic_New\Parabolic_New\obj\Debug\Parabolic_New.csprojAssemblyReference.cache
+C:\Users\Lars\Documents\Visual Studio 2017\Projects\Introduction to Scientific Computing\Parabolic_New\Parabolic_New\obj\Debug\Parabolic_New.csproj.CoreCompileInputs.cache
+C:\Users\leh\Documents\Visual Studio 2017\Projects\Introduction to Scientific Computing\Parabolic_New\Parabolic_New\bin\Debug\Parabolic_New.exe.config
+C:\Users\leh\Documents\Visual Studio 2017\Projects\Introduction to Scientific Computing\Parabolic_New\Parabolic_New\bin\Debug\Parabolic_New.exe
+C:\Users\leh\Documents\Visual Studio 2017\Projects\Introduction to Scientific Computing\Parabolic_New\Parabolic_New\bin\Debug\Parabolic_New.pdb
+C:\Users\leh\Documents\Visual Studio 2017\Projects\Introduction to Scientific Computing\Parabolic_New\Parabolic_New\obj\Debug\Parabolic_New.csprojAssemblyReference.cache
+C:\Users\leh\Documents\Visual Studio 2017\Projects\Introduction to Scientific Computing\Parabolic_New\Parabolic_New\obj\Debug\Parabolic_New.Parabolic.resources
+C:\Users\leh\Documents\Visual Studio 2017\Projects\Introduction to Scientific Computing\Parabolic_New\Parabolic_New\obj\Debug\Parabolic_New.Properties.Resources.resources
+C:\Users\leh\Documents\Visual Studio 2017\Projects\Introduction to Scientific Computing\Parabolic_New\Parabolic_New\obj\Debug\Parabolic_New.csproj.GenerateResource.cache
+C:\Users\leh\Documents\Visual Studio 2017\Projects\Introduction to Scientific Computing\Parabolic_New\Parabolic_New\obj\Debug\Parabolic_New.csproj.CoreCompileInputs.cache
+C:\Users\leh\Documents\Visual Studio 2017\Projects\Introduction to Scientific Computing\Parabolic_New\Parabolic_New\obj\Debug\Parabolic_New.exe
+C:\Users\leh\Documents\Visual Studio 2017\Projects\Introduction to Scientific Computing\Parabolic_New\Parabolic_New\obj\Debug\Parabolic_New.pdb
+C:\Users\Aaron\Desktop\Parabolic_New\Parabolic_New\Parabolic_New\bin\Debug\Parabolic_New.exe.config
+C:\Users\Aaron\Desktop\Parabolic_New\Parabolic_New\Parabolic_New\bin\Debug\Parabolic_New.exe
+C:\Users\Aaron\Desktop\Parabolic_New\Parabolic_New\Parabolic_New\bin\Debug\Parabolic_New.pdb
+C:\Users\Aaron\Desktop\Parabolic_New\Parabolic_New\Parabolic_New\obj\Debug\Parabolic_New.csprojAssemblyReference.cache
+C:\Users\Aaron\Desktop\Parabolic_New\Parabolic_New\Parabolic_New\obj\Debug\Parabolic_New.Parabolic.resources
+C:\Users\Aaron\Desktop\Parabolic_New\Parabolic_New\Parabolic_New\obj\Debug\Parabolic_New.Properties.Resources.resources
+C:\Users\Aaron\Desktop\Parabolic_New\Parabolic_New\Parabolic_New\obj\Debug\Parabolic_New.csproj.GenerateResource.cache
+C:\Users\Aaron\Desktop\Parabolic_New\Parabolic_New\Parabolic_New\obj\Debug\Parabolic_New.csproj.CoreCompileInputs.cache
+C:\Users\Aaron\Desktop\Parabolic_New\Parabolic_New\Parabolic_New\obj\Debug\Parabolic_New.exe
+C:\Users\Aaron\Desktop\Parabolic_New\Parabolic_New\Parabolic_New\obj\Debug\Parabolic_New.pdb
